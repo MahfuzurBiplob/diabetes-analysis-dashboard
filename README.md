@@ -2,26 +2,39 @@
 
 ## 📊 Project Overview
 
-This project analyzes diabetes patient data using Power BI to identify key health patterns and risk factors.
+This project analyzes diabetes patient data using SQL and Power BI to identify key health patterns and risk factors.
 
 ---
 
 ## 📁 Dataset
 
-* Source: Cleaned diabetes dataset
+* Cleaned diabetes dataset (CSV)
 * Features include:
 
   * Age
   * BMI
-  * Glucose level
+  * Glucose
   * Outcome (Diabetic / Non-diabetic)
 
 ---
 
 ## ⚙️ Tools Used
 
-* Power BI
-* CSV dataset
+* SQL (Data Analysis)
+* Power BI (Visualization)
+* CSV Dataset
+
+---
+
+## 🧠 SQL Analysis
+
+Basic SQL queries were used to explore:
+
+* Total patients and diabetic count
+* Age group distribution
+* BMI category analysis
+* Glucose level grouping
+* High-risk patient identification
 
 ---
 
@@ -50,4 +63,4 @@ This project analyzes diabetes patient data using Power BI to identify key healt
 
 ## 📌 Conclusion
 
-This dashboard helps identify major factors contributing to diabetes and supports better healthcare decision-making.
+This dashboard highlights important health indicators and helps in identifying high-risk diabetes patients for better decision-making.
